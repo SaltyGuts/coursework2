@@ -1,0 +1,10 @@
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\bin\Debug\Iterations.exe
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\bin\Debug\Iterations.pdb
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\obj\Debug\Iterations.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\obj\Debug\Iterations.Form1.resources
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\obj\Debug\Iterations.Properties.Resources.resources
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\obj\Debug\Iterations.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\obj\Debug\Iterations.exe
+C:\Users\Artem\Desktop\Новая папка (2)\Iterations\obj\Debug\Iterations.pdb
